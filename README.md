@@ -1,4 +1,4 @@
-# t2_academy
+# lycans_fight_club
 
 A new Flutter project.
 
